@@ -1,4 +1,4 @@
-This is the implementation of the paper "Actor-Critic Neural Zubov Control". All floating point values in plotting_new.ipynb can be found from one of the following:
+This is the implementation of the paper "Actor-Critic Neural Zubov Control". All hard-coded floating point values in plotting_new.ipynb can be found from one of the following:
 
 - lqr2.ipynb (e.g the K matrix)
 - the paper "Neural Lyapunov Control"
